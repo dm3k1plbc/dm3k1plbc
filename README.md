@@ -1,20 +1,19 @@
 # Hi, I'm Isla Costa
-Ruby developer focused on clean, pragmatic API design.
+Ruby developer with a focus on clean, pragmatic API design.
 
 ## About me
-- Based in London, UK, building backend systems with Ruby.
-- I care about API ergonomics: predictable endpoints, clear contracts, and happy consumers.
-- I enjoy refactoring legacy codebases into something maintainable.
-- Occasionally I write about API design patterns and Ruby gotchas.
+- Based in London, UK, building backend services that are simple to use and easy to maintain.
+- I care about thoughtful API contracts, clear documentation, and developer experience.
+- Always exploring ways to make Ruby codebases more elegant and resilient.
 
 ## Tech stack
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) ![Backend](https://img.shields.io/badge/Backend-9C27B0?style=flat-square&logo=serverfault&logoColor=white)
 
 ## What I'm currently working on
-- An internal tool that turns messy JSON payloads into versioned, well-documented APIs.
-- Exploring Roda and Sequel for a lightweight service-oriented project.
+- Designing a RESTful API for a small logistics startup.
+- Refactoring a legacy Rails monolith into smaller, testable services.
 
 ## GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dm3k1plbc&show_icons=true&hide_border=true)
 
-Good APIs are a quiet conversation between systems—make every reply count.
+Thanks for stopping by — feel free to reach out if you want to talk APIs or Ruby.
